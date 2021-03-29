@@ -1,0 +1,566 @@
+Id,Label,sex,nationality,occupation,year_of_birth,military_civilian,year_of_selection,total_number_of_missions
+1,"Gagarin, Yuri",male,U.S.S.R/Russia,pilot,1934,military,1960,1
+2,"Titov, Gherman",male,U.S.S.R/Russia,pilot,1935,military,1960,1
+3,"Glenn, John H., Jr.",male,U.S.,pilot,1921,military,1959,2
+4,"Carpenter, M. Scott",male,U.S.,Pilot,1925,military,1959,1
+5,"Nikolayev, Andriyan",male,U.S.S.R/Russia,pilot,1929,military,1960,2
+6,"Popovich, Pavel",male,U.S.S.R/Russia,pilot,1930,military,1960,2
+7,"Schirra, Walter M., Jr.",male,U.S.,pilot,1923,military,1959,3
+8,"Cooper, L. Gordon, Jr.",male,U.S.,pilot,1927,military,1959,2
+9,"Bykovsky, Valery",male,U.S.S.R/Russia,pilot,1934,military,1960,3
+10,"Tereshkova, Valentina",female,U.S.S.R/Russia,pilot,1937,military,1962,1
+11,"Komarov, Vladimir",male,U.S.S.R/Russia,commander,1927,military,1960,2
+12,"Feoktistov, Konstantin",male,U.S.S.R/Russia,MSP,1926,civilian,1964,1
+13,"Yegorov, Boris",male,U.S.S.R/Russia,MSP,1937,civilian,1964,1
+14,"Belyayev, Pavel",male,U.S.S.R/Russia,commander,1925,military,1960,1
+15,"Leonov, Aleksei",male,U.S.S.R/Russia,pilot,1934,military,1960,2
+16,"Grissom, Virgil I.",male,U.S.,commander,1926,military,1959,1
+17,"Young, John W.",male,U.S.,pilot,1930,military,1962,6
+18,"McDivitt, James A.",male,U.S.,commander,1929,military,1962,2
+19,"White, Edward H., II",male,U.S.,pilot,1930,military,1962,1
+20,"Conrad, Charles, Jr.",male,U.S.,pilot,1930,military,1962,4
+21,"Borman, Frank",male,U.S.,commander,1928,military,1962,2
+22,"Lovell, James A., Jr.",male,U.S.,pilot,1928,military,1962,4
+23,"Stafford, Thomas P.",male,U.S.,pilot,1930,military,1962,4
+24,"Armstrong, Neil A.",male,U.S.,commander,1930,civilian,1962,2
+25,"Scott, David R.",male,U.S.,pilot,1932,military,1963,3
+26,"Cernan, Eugene A.",male,U.S.,pilot,1934,military,1963,3
+27,"Collins, Michael",male,U.S.,pilot,1930,civilian,1963,2
+28,"Gordon, Richard F., Jr.",male,U.S.,pilot,1929,military,1963,2
+29,"Aldrin, Edwin Eugene, Jr.",male,U.S.,pilot,1930,military,1963,2
+30,"Eisele, Donn F.",male,U.S.,pilot,1930,military,1963,1
+31,"Cunningham, Ronnie Walter",male,U.S.,pilot,1932,civilian,1963,1
+100,"Savinykh, Viktor",male,U.S.S.R/Russia,flight engineer,1940,civilian,1978,3
+101,Jugderdemidiin Gurragchaa,male,Mongolia,flight engineer,1947,civilian,1978,1
+102,"Crippen, Robert L.",male,U.S.,pilot,1937,military,1969,4
+103,Dumitru Prunariu,male,Romania,MSP,1952,civilian,1978,1
+104,"Engle, Joe H.",male,U.S.,commander,1932,military,1966,2
+105,"Truly, Richard H.",male,U.S.,pilot,1937,military,1969,2
+106,"Fullerton, Charles G.",male,U.S.,pilot,1936,military,1969,2
+107,"Berezovoy, Anatoly",male,U.S.S.R/Russia,commander,1942,military,1970,1
+108,"Chrï¿½ï¿½tien, Jean-",male,France,MSP,1938,military,1980,3
+109,"Hartsfield, Henry W., Jr.",male,U.S.,pilot,1933,military,1969,3
+110,"Serebrov, Aleksandr",male,U.S.S.R/Russia,flight engineer,1944,civilian,1978,4
+32,"Beregovoi, Georgi",male,U.S.S.R/Russia,commander,1921,military,1964,1
+33,"Anders, William Alison",male,U.S.,pilot,1933,civilian,1963,1
+34,"Shatalov, Vladimir",male,U.S.S.R/Russia,commander,1927,military,1963,3
+35,"Volynov, Boris",male,U.S.S.R/Russia,commander,1934,military,1960,2
+36,"Yeliseyev, Aleksei",male,U.S.S.R/Russia,flight engineer,1934,civilian,1968,3
+37,"Khrunov, Yevgeny",male,U.S.S.R/Russia,MSP,1933,military,1960,1
+38,"Schweickart, Russell L.",male,U.S.,pilot,1935,civilian,1963,1
+39,"Shonin, Georgi",male,U.S.S.R/Russia,commander,1935,military,1960,1
+40,"Kubasov, Valeri",male,U.S.S.R/Russia,flight engineer,1935,military,1968,3
+41,"Filipchenko, Anatoly",male,U.S.S.R/Russia,commander,1928,military,1963,2
+42,"Volkov, Vladislav",male,U.S.S.R/Russia,flight engineer,1935,military,1968,2
+43,"Gorbatko, Viktor",male,U.S.S.R/Russia,MSP,1934,military,1960,3
+44,"Bean, Alan Lavern",male,U.S.,pilot,1932,military,1963,2
+45,"Swigert, John L., Jr.",male,U.S.,pilot,1931,civilian,1966,1
+46,"Haise, Fred W., Jr.",male,U.S.,pilot,1933,civilian,1966,1
+47,"Sevastyanov, Vitali",male,U.S.S.R/Russia,flight engineer,1935,civilian,1968,2
+48,"Shepard, Alan B., Jr.",male,U.S.,commander,1923,military,1959,2
+49,"Roosa, Stuart A.",male,U.S.,pilot,1933,military,1966,1
+50,"Mitchell, Edgar D.",male,U.S.,pilot,1930,military,1966,1
+51,"Rukavishnikov, Nikolai",male,U.S.S.R/Russia,flight engineer,1932,military,1968,3
+52,"Dobrovolski, Georgi",male,U.S.S.R/Russia,commander,1928,military,1963,1
+53,"Patsayev, Viktor",male,U.S.S.R/Russia,flight engineer,1933,civilian,1968,1
+54,"Worden, Alfred M.",male,U.S.,pilot,1932,military,1966,1
+55,"Irwin, James B.",male,U.S.,pilot,1930,military,1966,1
+56,"Mattingly, Thomas K., II",male,U.S.,pilot,1936,military,1966,3
+57,"Duke, Jr. Charles Moss",male,U.S.,pilot,1935,military,1966,1
+58,"Evans, Ronald E.",male,U.S.,pilot,1933,military,1966,1
+59,"Schmitt, Harrison H.",male,U.S.,pilot,1935,civilian,1965,1
+60,"Weitz, Paul J.",male,U.S.,pilot,1932,military,1966,2
+61,"Kerwin, Joseph P.",male,U.S.,MSP,1932,military,1965,1
+62,"Lousma, Jack R.",male,U.S.,pilot,1936,military,1966,2
+63,"Garriott, Owen K.",male,U.S.,MSP,1930,civilian,1965,2
+64,"Lazarev, Vasili",male,U.S.S.R/Russia,commander,1928,military,1964,1
+65,"Makarov, Oleg",male,U.S.S.R/Russia,flight engineer,1933,civilian,1968,3
+66,"Carr, Gerald P.",male,U.S.,commander,1932,military,1966,1
+67,"Pogue, William R.",male,U.S.,pilot,1930,military,1966,1
+68,"Gibson, Edward G.",male,U.S.,MSP,1936,civilian,1965,1
+69,"Klimuk, Pyotr",male,U.S.S.R/Russia,commander,1942,military,1965,3
+70,"Lebedev, Valentin",male,U.S.S.R/Russia,flight engineer,1942,civilian,1972,2
+71,"Artyukhin, Yuri",male,U.S.S.R/Russia,flight engineer,1930,military,1963,1
+72,"Sarafanov, Gennadi",male,U.S.S.R/Russia,commander,1942,military,1965,1
+73,"Dyomin, Lev",male,U.S.S.R/Russia,flight engineer,1926,military,1963,1
+74,"Gubarev, Aleksei",male,U.S.S.R/Russia,commander,1931,military,1963,2
+75,"Grechko, Georgi",male,U.S.S.R/Russia,flight engineer,1931,civilian,1968,3
+76,"Brand, Vance D.",male,U.S.,pilot,1931,civilian,1966,4
+77,"Slayton, Donald K.",male,U.S.,pilot,1924,civilian,1959,1
+78,"Zholobov, Vitali",male,U.S.S.R/Russia,flight engineer,1937,military,1963,1
+79,"Aksyonov, Vladimir",male,U.S.S.R/Russia,flight engineer,1935,military,1973,2
+80,"Zudov, Vyacheslav",male,U.S.S.R/Russia,commander,1942,military,1965,1
+81,"Rozhdestvensky, Valery",male,U.S.S.R/Russia,flight engineer,1939,military,1965,1
+82,"Glazkov, Yuri",male,U.S.S.R/Russia,flight engineer,1939,military,1965,1
+83,"Kovalyonok, Vladimir",male,U.S.S.R/Russia,commander,1942,military,1967,3
+84,"Ryumin, Valery",male,U.S.S.R/Russia,flight engineer,1939,civilian,1973,4
+85,"Romanenko, Yuri",male,U.S.S.R/Russia,commander,1944,military,1970,3
+86,"Dzhanibekov, Vladimir",male,U.S.S.R/Russia,commander,1942,military,1970,5
+87,Vladimir Remek,male,Czechoslovakia,pilot,1948,military,1976,1
+88,"Ivanchenkov, Aleksandr",male,U.S.S.R/Russia,flight engineer,1940,military,1973,2
+89,Miroslaw Hermaszewske,male,Poland,pilot,1941,military,1976,1
+90,"Jahn, Sigmund",male,Germany,MSP,1937,military,1976,1
+91,"Lyakhov, Vladimir",male,U.S.S.R/Russia,commander,1941,military,1967,3
+92,Georgi Ivanov,male,Bulgaria,pilot,1940,military,1978,1
+93,"Popov, Leonid",male,U.S.S.R/Russia,commander,1945,military,1970,3
+94,Bertalan Farkas,male,Hungry,pilot,1949,civilian,1978,1
+95,"Malyshev, Yuri",male,U.S.S.R/Russia,commander,1941,military,1967,2
+96,Pham Tuan,male,Vietnam,MSP,1947,military,1979,1
+97,Arnaldo Tamayo Mendez,male,Cuba,pilot,1942,military,1978,1
+98,"Kizim, Leonid",male,U.S.S.R/Russia,commander,1941,military,1965,3
+99,"Strekalov, Gennadi",male,U.S.S.R/Russia,MSP,1940,civilian,1973,5
+111,"Savitskaya, Svetlana",female,U.S.S.R/Russia,MSP,1948,civilian,1980,2
+112,"Overmyer, Robert F.",male,U.S.,pilot,1936,military,1966,2
+113,"Allen, Joseph P.",male,U.S.,MSP,1937,civilian,1967,2
+114,"Lenoir, William B.",male,U.S.,MSP,1939,civilian,1967,1
+115,"Bobko, Karol J.",male,U.S.,pilot,1937,military,1969,3
+116,"Peterson, Donald H.",male,U.S.,MSP,1933,military,1969,1
+117,"Musgrave, Franklin Story",male,U.S.,MSP,1935,civilian,1967,6
+118,"Titov, Vladimir",male,U.S.S.R/Russia,commander,1947,military,1976,4
+119,"Hauck, Frederick H.",male,U.S.,pilot,1941,military,1978,3
+120,"Fabian, John M.",male,U.S.,MSP,1939,military,1978,2
+121,"Ride, Sally K.",female,U.S.,MSP,1951,civilian,1978,2
+122,"Thagard, Norman E.",male,U.S.,MSP,1943,civilian,1978,5
+123,"Aleksandrov, Aleksandr",male,U.S.S.R/Russia,flight engineer,1943,civilian,1978,2
+124,"Brandenstein, Daniel C.",male,U.S.,pilot,1943,military,1978,4
+125,"Bluford, Guion S., Jr.",male,U.S.,MSP,1942,military,1978,4
+126,"Gardner, Dale A.",male,U.S.,MSP,1948,military,1978,2
+127,"Thornton, William E.",male,U.S.,MSP,1929,civilian,1967,2
+128,"Shaw, Brewster H., Jr.",male,U.S.,pilot,1945,military,1978,3
+129,"Parker, Robert A. R.",male,U.S.,MSP,1936,civilian,1967,2
+130,"Lichtenberg, Byron Kurt",male,U.S.,PSP,1948,military,1982,2
+131,"Merbold, Ulf",male,Germany,PSP,1941,civilian,1978,3
+132,"Gibson, Robert L.",male,U.S.,pilot,1946,military,1978,5
+133,"McNair, Ronald E.",male,U.S.,MSP,1950,civilian,1978,2
+134,"Stewart, Robert L.",male,U.S.,MSP,1942,military,1978,2
+135,"McCandless, Bruce, II",male,U.S.,MSP,1937,military,1966,2
+136,"Solovyov, Vladimir",male,U.S.S.R/Russia,flight engineer,1946,civilian,1978,2
+137,"Atkov, Oleg",male,U.S.S.R/Russia,MSP,1949,civilian,1983,1
+138,Rakesh Sharma,male,India,pilot,1949,military,1982,1
+139,"Scobee, Francis R.",male,U.S.,pilot,1939,military,1978,2
+140,"Hart, Terry J.",male,U.S.,MSP,1946,civilian,1978,1
+141,"Van Hoften, James D. A.",male,U.S.,MSP,1944,civilian,1978,2
+142,"Nelson, George D.",male,U.S.,MSP,1950,civilian,1978,3
+143,"Volk, Igor",male,U.S.S.R/Russia,MSP,1937,military,1977,1
+144,"Coats, Michael L.",male,U.S.,pilot,1952,military,1978,3
+145,"Mullane, Richard M.",male,U.S.,MSP,1945,military,1978,3
+146,"Hawley, Steven A.",male,U.S.,MSP,1951,civilian,1978,5
+147,"Resnik, Judith A.",female,U.S.,MSP,1949,civilian,1978,2
+148,"Walker, Charles David",male,U.S.,PSP,1948,civilian,1983,3
+149,"McBride, Jon A.",male,U.S.,pilot,1943,military,1978,1
+150,"Sullivan, Kathryn D.",female,U.S.,MSP,1951,civilian,1978,3
+151,"Leestma, David C.",male,U.S.,MSP,1949,military,1980,3
+152,"Scully-Power, Paul Desmond",male,U.S.,PSP,1944,civilian,1984,1
+153,"Garneau, Marc Joseph Jean-Pierre",male,Canada,PSP,1949,military,1983,3
+154,"Walker, David Mathieson",male,U.S.,pilot,1944,military,1978,4
+155,"Fisher, Anna L.",female,U.S.,MSP,1949,civilian,1978,1
+156,"Shriver, Loren J.",male,U.S.,pilot,1944,military,1978,3
+157,"Onizuka, Ellison S.",male,U.S.,MSP,1946,military,1978,2
+158,"Buchli, James F.",male,U.S.,MSP,1945,military,1978,4
+159,"Payton, Gary Eugene",male,U.S.,PSP,1948,military,1979,1
+160,"Williams, Donald E.",male,U.S.,pilot,1942,military,1978,2
+161,"Seddon, Margaret Rhea",female,U.S.,MSP,1947,civilian,1978,3
+162,"Griggs, S. David",male,U.S.,MSP,1947,civilian,1978,1
+163,"Hoffman, Jeffrey A.",male,U.S.,MSP,1944,civilian,1978,5
+164,"Garn, Edwin Jacob",male,U.S.,PSP,1932,military,1985,1
+165,"Gregory, Frederick D.",male,U.S.,pilot,1941,military,1978,3
+166,"Lind, Don L.",male,U.S.,MSP,1930,military,1966,1
+167,"Lodewijk, van der Berg",male,U.S.,PSP,1932,civilian,1983,1
+168,"Wang, Taylor Gun-Jin",male,U.S.,PSP,1940,civilian,1984,1
+169,"Creighton, John O.",male,U.S.,pilot,1943,military,1978,3
+170,"Nagel, Steven R.",male,U.S.,MSP,1946,military,1978,4
+171,"Lucid, Shannon W.",female,U.S.,MSP,1943,civilian,1978,5
+172,"Baudry, Patrick",male,France,PSP,1946,military,1980,1
+173,"Al-saud, Sultan bin Salman",male,Saudi Arabia,PSP,1956,civilian,1985,1
+174,"Bridges, Roy D., Jr.",male,U.S.,pilot,1943,military,1980,1
+175,"Henize, Karl G.",male,U.S.,MSP,1926,civilian,1967,1
+176,"England, Anthony W.",male,U.S.,MSP,1942,civilian,1967,1
+177,"Acton, Loren Wilbur",male,U.S.,PSP,1936,civilian,1978,1
+178,"Bartoe, John-David Francis",male,U.S.,PSP,1944,civilian,1978,1
+179,"Covey, Richard O.",male,U.S.,pilot,1946,military,1978,4
+180,"Lounge, John M.",male,U.S.,MSP,1946,civilian,1980,3
+181,"Fisher, William F.",male,U.S.,MSP,1946,civilian,1980,1
+182,"Vasyutin, Vladimir",male,U.S.S.R/Russia,commander,1952,military,1976,1
+183,"Volkov, Alexander",male,U.S.S.R/Russia,MSP,1948,military,1976,3
+184,"Grabe, Ronald J.",male,U.S.,pilot,1945,military,1980,4
+185,"Hilmers, David C.",male,U.S.,MSP,1950,military,1980,4
+186,"Pailes, William Arthur",male,U.S.,PSP,1936,military,1982,1
+187,"Dunbar, Bonnie J.",female,U.S.,MSP,1949,civilian,1980,5
+188,"Furrer, Reinhard Alfred",male,Germany,PSP,1940,civilian,1982,1
+189,"Messerschmid, Ernst Willi",male,Germany,PSP,1945,military,1982,1
+190,"Ockels, Wubbo Johannes",male,Netherland,PSP,1946,civilian,1978,1
+191,"O'Connor, Bryan D.",male,U.S.,pilot,1946,military,1980,2
+192,"Ross, Jerry L.",male,U.S.,MSP,1948,military,1980,7
+193,"Cleave, Mary L.",female,U.S.,MSP,1947,civilian,1980,2
+194,"Spring, Sherwood C.",male,U.S.,MSP,1944,military,1980,1
+195,"Neri Vela, Rodolfl",male,Mexico,PSP,1952,civilian,1985,1
+196,"Bolden, Charles F., Jr.",male,U.S.,pilot,1946,military,1980,4
+197,"Chang-Diaz, Franklin R.",male,U.S.,MSP,1950,civilian,1980,7
+198,"Cenker, Robert Joseph",male,U.S.,PSP,1948,civilian,1985,1
+199,"Nelson, William Clarence",male,U.S.,PSP,1942,civilian,1984,1
+200,"Smith, Michael John",male,U.S.,pilot,1945,military,1980,1
+201,"Jarvis, Gregory Bruce",male,U.S.,PSP,1944,civilian,1984,1
+202,"McAuliffe, Sharon Christa Corrigan",female,U.S.,PSP,1948,civilian,1985,1
+203,"Laveykin, Aleksandr",male,U.S.S.R/Russia,flight engineer,1951,civilian,1978,1
+204,"Viktorenko, Aleksandr",male,U.S.S.R/Russia,commander,1947,military,1978,4
+205,"Faris, M. Achmed",male,Syria,MSP,1951,military,1985,1
+206,"Manarov, Musa",male,U.S.S.R/Russia,flight engineer,1951,military,1978,2
+207,"Levchenko, Anatoli",male,U.S.S.R/Russia,MSP,1941,military,1977,1
+208,"Solovyev, Anatoly",male,U.S.S.R/Russia,commander,1948,military,1976,5
+209,"Aleksandrov, Aleksandr",male,Bulgaria,pilot,1951,military,1978,1
+210,"Polyakov, Valeri",male,U.S.S.R/Russia,flight engineer,1942,civilian,1972,2
+211,"Mohmand, Abdul Ahad",male,Afghanistan,MSP,1959,military,1988,1
+212,"Krikalev, Sergei",male,U.S.S.R/Russia,flight engineer,1958,civilian,1985,6
+213,"Gardner, Guy S.",male,U.S.,pilot,1948,military,1980,2
+214,"Shepherd, William M.",male,U.S.,MSP,1949,military,1984,4
+215,"Blaha, John E.",male,U.S.,pilot,1942,military,1980,5
+216,"Springer, Robert C.",male,U.S.,MSP,1942,military,1980,2
+217,"Bagian, James P.",male,U.S.,MSP,1952,civilian,1980,2
+218,"Lee, Mark C.",male,U.S.,MSP,1952,military,1984,4
+219,"Richards, Richard N.",male,U.S.,pilot,1946,military,1980,4
+220,"Adamson, James C.",male,U.S.,MSP,1946,military,1984,2
+221,"Brown, Mark N.",male,U.S.,MSP,1951,military,1984,2
+222,"McCulley, Michael J.",male,U.S.,pilot,1943,military,1984,1
+223,"Baker, Ellen S.",female,U.S.,MSP,1953,civilian,1984,3
+224,"Carter, Manley Lanier, Jr.",male,U.S.,MSP,1947,military,1984,1
+225,"Thornton, Kathryn C.",female,U.S.,MSP,1952,civilian,1984,4
+226,"Wetherbee, James D.",male,U.S.,pilot,1952,military,1984,6
+227,"Ivins, Marsha S.",female,U.S.,MSP,1951,civilian,1984,5
+228,"Low, G. David",male,U.S.,MSP,1956,civilian,1984,3
+229,"Balandin, Aleksandr",male,U.S.S.R/Russia,flight engineer,1953,civilian,1978,1
+230,"Casper, John H.",male,U.S.,pilot,1943,military,1984,4
+231,"Thuot, Pierre J.",male,U.S.,MSP,1955,military,1985,3
+232,"Manakov, Gennadi",male,U.S.S.R/Russia,commander,1950,military,1985,2
+233,"Cabana, Robert D.",male,U.S.,pilot,1949,military,1985,4
+234,"Melnick, Bruce E.",male,U.S.,MSP,1949,military,1987,2
+235,"Akers, Thomas D.",male,U.S.,MSP,1951,military,1987,4
+236,"Culbertson, Frank L., Jr.",male,U.S.,pilot,1949,military,1984,3
+237,"Meade, Carl J.",male,U.S.,MSP,1950,military,1985,3
+238,"Gemar, Charles D.",male,U.S.,MSP,1955,military,1985,3
+239,"Durrance, Samuel Thornton",male,U.S.,PSP,1943,civilian,1984,2
+240,"Parise, Ronald Anthony",male,U.S.,PSP,1951,civilian,1984,2
+241,"Afanasyev, Viktor Mikhaylovich",male,U.S.S.R/Russia,commander,1948,military,1985,4
+242,"Akiyama, Toyohiro",male,Japan,Other (Journalist),1942,civilian,1989,1
+243,"Cameron, Kenneth D.",male,U.S.,pilot,1949,military,1984,3
+244,"Godwin, Linda M.",female,U.S.,MSP,1952,civilian,1985,4
+245,"Apt, Jerome",male,U.S.,MSP,1949,civilian,1985,4
+246,"Hammond, L. Blaine, Jr.",male,U.S.,pilot,1952,military,1984,2
+247,"Harbaugh, Gregory J.",male,U.S.,MSP,1956,civilian,1987,4
+248,"McMonagle, Donald R.",male,U.S.,MSP,1952,military,1987,3
+249,"Veach, Charles Lacy",male,U.S.,MSP,1944,civilian,1984,2
+250,"Hieb, Richard J.",male,U.S.,MSP,1955,civilian,1985,3
+251,"Artsebarsky, Anatoly",male,U.S.S.R/Russia,commander,1956,military,1985,1
+252,Helen Sharman,female,U.K.,MSP,1963,civilian,1989,1
+253,"Gutierrez, Sidney M.",male,U.S.,MSP,1951,military,1984,2
+254,"Jernigan, Tamara E.",female,U.S.,MSP,1959,civilian,1985,5
+255,"Gaffney, Andrew",male,U.S.,PSP,1946,civilian,1984,1
+256,"Hughes-Fulford, Millie Elizabeth",female,U.S.,PSP,1945,civilian,1983,1
+257,"Baker, Michael A.",male,U.S.,pilot,1953,military,1985,4
+258,"Reightler, Kenneth S., Jr.",male,U.S.,pilot,1951,military,1987,2
+259,"Aubakirov, Toktar",male,U.S.S.R/Russia,MSP,1946,military,1991,1
+260,"Viehbock, Franz",male,Austria,MSP,1960,civilian,1989,1
+261,"Henricks, Terence T.",male,U.S.,pilot,1952,military,1985,4
+262,"Voss, James S.",male,U.S.,MSP,1949,military,1987,5
+263,"Runco, Mario, Jr.",male,U.S.,MSP,1952,military,1987,3
+264,"Hennen, Thomas John",male,U.S.,PSP,1952,military,1988,1
+265,"Oswald, Stephen S.",male,U.S.,pilot,1951,military,1985,3
+266,"Readdy, William F.",male,U.S.,MSP,1952,civilian,1987,3
+267,"Bondar, Roberta Lynn",female,Canada,PSP,1945,civilian,1983,1
+268,"Kaleri, Aleksandr",male,U.S.S.R/Russia,flight engineer,1956,civilian,1984,5
+269,"Flade, Klaus-Dietrich",male,Germany,MSP,1952,military,1990,1
+270,"Duffy, Brian",male,U.S.,pilot,1953,military,1985,4
+271,"Foale, C. Michael",male,U.S.,MSP,1957,civilian,1987,6
+272,"Frimout, David",male,Belgium,PSP,1941,civilian,1985,1
+273,"Chilton, Kevin P.",male,U.S.,pilot,1954,military,1987,3
+274,"Bowersox, Kenneth D.",male,U.S.,pilot,1956,military,1987,5
+275,"DeLucas, Lawrence James",male,U.S.,PSP,1950,civilian,1990,1
+276,"Trinh, Eugene Huu-Chau",male,U.S.,PSP,1950,civilian,1983,1
+277,"Avdeyev, Sergei",male,U.S.S.R/Russia,flight engineer,1956,civilian,1987,3
+278,"Tognini, Michel",male,France,MSP,1949,military,1985,2
+279,"Allen, Andrew M.",male,U.S.,pilot,1955,military,1987,3
+280,"Nicollier, Claude",male,Switzerland,PSP,1944,civilian,1978,4
+281,Franco Malerba,male,Italy,PSP,1946,civilian,1998,1
+282,"Brown, Curtis L., Jr.",male,U.S.,pilot,1956,military,1987,6
+283,"Davis, Nancy Jan",female,U.S.,MSP,1953,civilian,1987,3
+284,"Jemison, Mae C.",female,U.S.,MSP,1956,civilian,1987,1
+285,"Mohri, Mamoru",male,Japan,PSP,1948,civilian,1985,2
+286,Steven MacLean,male,Canada,PSP,1954,military,1983,2
+287,"Clifford, Michael R.",male,U.S.,MSP,1952,military,1990,3
+288,"Helms, Susan J.",female,U.S.,MSP,1958,military,1990,5
+289,"Poleshchuk, Aleksandr",male,U.S.S.R/Russia,flight engineer,1953,military,1989,1
+290,"Cockrell, Kenneth D.",male,U.S.,MSP,1950,civilian,1990,5
+291,"Ochoa, Ellen",female,U.S.,MSP,1958,civilian,1990,4
+292,"Precourt, Charles J., Jr.",male,U.S.,MSP,1955,military,1990,4
+293,"Harris, Bernard A., Jr.",male,U.S.,MSP,1956,civilian,1990,2
+294,"Walter, Ulrich",male,Germany,PSP,1954,civilian,1987,1
+295,"Schlegel, Hans",male,Germany,PSP,1951,civilian,1987,2
+296,"Currie, Nancy J.",female,U.S.,MSP,1958,military,1990,4
+297,"Wisoff, Peter J. K.",male,U.S.,MSP,1958,civilian,1990,4
+298,"Voss, Janice E.",female,U.S.,MSP,1956,civilian,1990,5
+299,"Tsibliyev, Vasili",male,U.S.S.R/Russia,commander,1954,military,1987,2
+300,"Haignerï¿½ï¿½, Jean-Pi",male,France,MSP,1948,military,1985,2
+301,"Newman, James H.",male,U.S.,MSP,1956,civilian,1990,4
+302,"Bursch, Daniel W.",male,U.S.,MSP,1957,military,1990,4
+303,"Walz, Carl E.",male,U.S.,MSP,1955,military,1990,4
+304,"Searfoss, Richard A.",male,U.S.,pilot,1956,military,1990,3
+305,"McArthur, William S., Jr.",male,U.S.,MSP,1951,military,1990,4
+306,"Wolf, David A.",male,U.S.,MSP,1956,civilian,1990,4
+307,"Fettman, Martin Joseph",male,U.S.,PSP,1956,civilian,1992,1
+308,Yuri Vladimirovich Usachyov,male,U.S.S.R/Russia,flight engineer,1957,military,1989,4
+309,"Sega, Ronald M.",male,U.S.,MSP,1952,civilian,1990,2
+310,"Jones, Thomas D.",male,U.S.,MSP,1955,civilian,1990,4
+311,"Malenchenko, Yuri",male,U.S.S.R/Russia,commander,1961,military,1987,6
+312,"Musabayev, Talgat",male,U.S.S.R/Russia,flight engineer,1951,military,1990,3
+313,"Halsell, James D., Jr.",male,U.S.,pilot,1956,military,1990,5
+314,"Chiao, Leroy",male,U.S.,MSP,1960,civilian,1990,4
+315,"Thomas, Donald A.",male,U.S.,MSP,1955,civilian,1990,4
+316,"Mukai, Chiaki",female,Japan,PSP,1952,civilian,1985,2
+317,"Linenger, Jerry M.",male,U.S.,MSP,1955,military,1992,2
+318,"Wilcutt, Terrence W.",male,U.S.,pilot,1949,military,1990,4
+319,"Smith, Steven L.",male,U.S.,MSP,1958,civilian,1992,4
+320,"Kondakova, Yelena V.",female,U.S.S.R/Russia,flight engineer,1957,civilian,1989,2
+321,"Tanner, Joseph R.",male,U.S.,MSP,1950,civilian,1992,4
+322,"Clervoy, Jean-Franï¿½ï¿",male,France,MSP,1958,military,1985,3
+323,"Parazynski, Scott E.",male,U.S.,MSP,1961,civilian,1992,5
+324,"Collins, Eileen M.",female,U.S.,pilot,1956,military,1990,4
+325,"Gregory, William G.",male,U.S.,pilot,1957,military,1990,1
+326,"Grunsfeld, John M.",male,U.S.,MSP,1958,civilian,1992,5
+327,"Lawrence, Wendy B.",female,U.S.,MSP,1959,military,1992,4
+328,"Dezhurov, Vladimir N.",male,U.S.S.R/Russia,commander,1962,military,1987,2
+329,"Budarin, Nikolai",male,U.S.S.R/Russia,flight engineer,1953,civilian,1989,3
+330,Kregel Kevin R.,male,U.S.,pilot,1956,civilian,1992,4
+331,"Weber, Mary E.",female,U.S.,MSP,1962,civilian,1992,2
+332,"Gidzenko, Yuri",male,U.S.S.R/Russia,commander,1962,military,1987,3
+333,"Reiter, Thomas",male,Germany,flight engineer,1958,military,1992,2
+334,"Gernhardt, Michael L.",male,U.S.,MSP,1956,civilian,1992,4
+335,"Rominger, Kent V.",male,U.S.,pilot,1956,military,1992,5
+336,"Coleman, Catherine G.",female,U.S.,MSP,1960,military,1992,3
+337,"Lopez-Alegria, Michael E.",male,U.S.,MSP,1958,military,1992,4
+338,"Leslie, Fred Weldon",male,U.S.,PSP,1951,civilian,1994,1
+339,"Sacco, Albert Jr.",male,U.S.,PSP,1949,civilian,1994,1
+340,Chris Hadfield,male,Canada,pilot,1959,military,1992,3
+341,"Jett, Brent W.",male,U.S.,pilot,1958,military,1992,4
+342,"Scott, Winston E.",male,U.S.,MSP,1950,military,1992,2
+343,"Wakata, Koichi",male,Japan,MSP,1963,civilian,1992,4
+344,"Barry, Daniel T.",male,U.S.,MSP,1953,civilian,1992,3
+345,"Onufrienko, Yuri",male,U.S.S.R/Russia,commander,1961,military,1989,2
+346,"Horowitz, Scott J.",male,U.S.,pilot,1957,military,1992,4
+347,"Cheli, Maurizio",male,Italy,MSP,1959,military,1992,1
+348,"Guidoni, Umberto",male,Italy,MSP,1954,civilian,1996,2
+349,"Thomas, Andrew S. W.",male,Australia,MSP,1951,civilian,1992,4
+350,"Linnehan, Richard M.",male,U.S.,MSP,1957,civilian,1992,4
+351,"Brady, Charles E., Jr.",male,U.S.,MSP,1951,military,1992,1
+352,"Favier, Jean-Jacques",male,France,PSP,1949,civilian,1985,1
+353,Robert Thirsk,male,Canada,MSP,1953,civilian,1983,2
+354,"Korzun, Valery",male,U.S.S.R/Russia,commander,1953,military,1987,2
+355,"Andrï¿½ï¿½-Deshays, Claudie (Haigne",female,France,MSP,1957,civilian,1985,2
+356,"Lazutkin, Aleksandr",male,U.S.S.R/Russia,flight engineer,1957,civilian,1992,1
+357,"Ewald, Reinhold",male,Germany,MSP,1956,civilian,1990,1
+358,"Kilrain-Still, Susan L.",female,U.S.,pilot,1961,military,1995,2
+359,"Crouch, Roger Keith",male,U.S.,PSP,1940,civilian,1995,2
+360,"Linteris, Gregory Thomas",male,U.S.,PSP,1957,civilian,1995,2
+361,"Noriega, Carlos I.",male,U.S.,MSP,1959,military,1995,2
+362,"Lu, Edward T.",male,U.S.,MSP,1963,civilian,1995,3
+363,"Vinogradov, Pavel",male,U.S.S.R/Russia,flight engineer,1953,civilian,1992,3
+364,"Curbeam, Robert L., Jr.",male,U.S.,MSP,1962,military,1994,3
+365,"Robinson, Stephen K.",male,U.S.,MSP,1955,civilian,1994,4
+366,Bjarni Tryggvason,male,Canada,PSP,1945,civilian,1983,1
+367,"Bloomfield, Michael J.",male,U.S.,pilot,1959,military,1994,3
+368,"Lindsey, Steven W.",male,U.S.,pilot,1960,military,1995,5
+369,"Chawla, Kalpana",female,U.S.,MSP,1962,civilian,1994,2
+370,"Doi, Takao",male,Japan,MSP,1954,civilian,1985,2
+371,"Kadenyuk, Leonid",male,U.S.S.R/Ukraine,pilot,1951,civilian,1976,1
+372,"Edwards, Joe F., Jr.",male,U.S.,pilot,1958,military,1995,1
+373,"Reilly, James F.",male,U.S.,MSP,1954,civilian,1994,3
+374,"Anderson, Michael P.",male,U.S.,MSP,1959,military,1994,2
+375,"Sharipov, Salizhan",male,U.S.S.R/Russia,Flight engineer,1964,military,1990,2
+376,"Eyharts, Lï¿½ï¿½o",male,France,MSP,1957,military,1990,2
+377,"Altman, Scott D.",male,U.S.,pilot,1959,military,1994,4
+378,"Hire, Kathryn P.",female,U.S.,MSP,1959,military,1995,2
+379,"Williams, Dafydd Rhys",male,Canada,MSP,1954,civilian,1992,2
+380,"Buckey, Jay Clark Jr.",male,U.S.,PSP,1956,civilian,1991,1
+381,"Pawelczyk, James Anthony",male,U.S.,PSP,1960,civilian,1996,1
+382,"Gorie, Dominic L.",male,U.S.,pilot,1957,military,1995,4
+383,"Kavandi, Janet L.",female,U.S.,MSP,1957,civilian,1995,3
+384,"Padalka, Gennady",male,U.S.S.R/Russia,commander,1958,military,1989,5
+385,"Baturin, Yuri",male,U.S.S.R/Russia,MSP,1949,civilian,1997,2
+385,"Duque, Pedro",male,Spain,flight engineer,1963,civilian,1992,2
+387,"Sturckow, Frederick W.",male,U.S.,pilot,1961,military,1995,4
+388,"Bella, Ivan",male,Slovakia,MSP,1964,military,1998,1
+389,"Husband, Rick D.",male,U.S.,pilot,1957,military,1995,2
+390,"Payette, Julie",female,Canada,MSP,1963,civilian,1992,2
+391,"Tokarev, Valeri",male,U.S.S.R/Russia,Flight engineer,1952,military,1989,2
+392,"Ashby, Jeffrey S.",male,U.S.,pilot,1954,military,1995,3
+393,"Kelly, Scott J.",male,U.S.,pilot,1964,military,1996,4
+394,"Thiele, Gerhard",male,Germany,MSP,1953,civilian,1987,1
+395,"Zalyotin, Sergei",male,U.S.S.R/Russia,commander,1962,military,1990,2
+396,"Williams, Jeffrey N.",male,U.S.,MSP,1958,military,1996,4
+397,"Mastracchio, Richard A.",male,U.S.,MSP,1960,civilian,1996,4
+398,"Burbank, Daniel C.",male,U.S.,MSP,1961,military,1996,3
+399,"Morukov, Boris",male,U.S.S.R/Russia,Flight engineer,1950,civilian,1989,1
+400,"Melroy, Pamela A.",female,U.S.,pilot,1961,military,1995,3
+401,"Polansky, Mark L.",male,U.S.,pilot,1956,civilian,1996,3
+402,"Kelly, James M.",male,U.S.,pilot,1959,military,1996,2
+403,"Richards, Paul W.",male,U.S.,MSP,1964,civilian,1996,1
+404,"Phillips, John L.",male,U.S.,MSP,1951,civilian,1996,3
+405,"Lonchakov, Yuri",male,U.S.S.R/Russia,MSP,1965,military,1997,3
+406,"Tito, Dennis Anthony",male,U.S.,Other (space tourist),1940,civilian,2000,1
+407,"Hobaugh, Charles O.",male,U.S.,pilot,1961,military,1996,3
+408,"Forrester, Patrick G.",male,U.S.,MSP,1957,military,1996,3
+409,"Tyurin, Mikhail",male,U.S.S.R/Russia,flight engineer,1960,military,1994,3
+410,"Kozeyev, Konstantin",male,U.S.S.R/Russia,flight engineer,1967,civilian,1996,1
+411,"Kelly, Mark E.",male,U.S.,pilot,1964,military,1996,4
+412,"Tani, Daniel M.",male,U.S.,MSP,1961,civilian,1996,2
+413,"Carey, Duane G.",male,U.S.,pilot,1957,military,1996,1
+414,"Massimino, Michael J.",male,U.S.,MSP,1962,civilian,1996,2
+415,"Frick, Stephen N.",male,U.S.,pilot,1964,military,1996,2
+416,"Walheim, Rex J.",male,U.S.,MSP,1962,military,1996,3
+417,"Morin, Lee M.",male,U.S.,MSP,1952,military,1996,1
+418,"Vittori, Roverto",male,Italy,flight engineer,1964,military,1998,3
+419,"Shuttleworth, M. Richard",male,Republic of South Africa,Other (Space tourist),1973,civilian,2001,1
+420,"Lockhart, Paul S.",male,U.S.,pilot,1956,military,1996,2
+421,"Perrin, Philippe",male,France,MSP,1963,military,1990,1
+422,"Whitson, Peggy A.",female,U.S.,MSP,1960,civilian,1996,3
+423,"Treshchov, Sergei",male,U.S.S.R/Russia,flight engineer,1958,civilian,1992,1
+424,"Magnus, Sandra H.",female,U.S.,MSP,1964,civilian,1996,3
+425,"Sellers, Piers J.",male,U.K./U.S.,MSP,1955,civilian,1996,3
+426,"Yurchikhin, Fyodor",male,U.S.S.R/Russia,MSP,1959,civilian,1997,5
+427,"De Winne, Frank",male,Belgium,commander,1961,military,1998,2
+428,"Herrington, John B.",male,U.S.,MSP,1958,military,1996,1
+429,"Pettit, Donald R.",male,U.S.,flight engineer,1955,civilian,1996,3
+430,"McCool, William C.",male,U.S.,pilot,1961,military,1996,1
+431,"Brown, David M.",male,U.S.,MSP,1956,military,1996,1
+432,"Clark, Laurel B.",female,U.S.,MSP,1961,military,1996,1
+433,"Ramon, Ilan",male,Israel,PSP,1954,military,1996,1
+434,"Yang, Liwei",male,China,commander,1965,military,2003,1
+435,"Fincke, E. Michael",male,U.S.,flight engineer,1967,military,1996,3
+436,"Kuipers, Andre",male,Netherland,flight engineer,1958,civilian,1998,2
+437,"Shargin, Yuri",male,U.S.S.R/Russia,flight engineer,1960,military,1996,1
+438,"Noguchi, Soichi",male,Japan,MSP,1965,civilian,1996,2
+439,"Camarda, Charles J.",male,U.S.,MSP,1952,civilian,1996,1
+440,"Olsen, Gregory Hammond",male,U.S.,Space tourist,1945,civilian,2004,1
+441,"Fei, Junlong",male,China,commander,1966,military,2005,1
+442,Nie Haisheng,male,China,flight engineer,1964,military,2005,2
+443,"Pontes, Marcos Cesar",male,Brazil,pilot,1963,military,1998,1
+444,"Fossum, Michael E.",male,U.S.,MSP,1957,civilian,1998,3
+445,"Nowak, Lisa M.",female,U.S.,MSP,1963,military,1996,1
+446,"Wilson, Stephanie D.",female,U.S.,MSP,1966,civilian,1996,3
+447,"Ferguson, Christopher J.",male,U.S.,pilot,1961,military,1998,3
+448,"Stefanyshyn-Piper, Heidemarie M.",female,U.S.,MSP,1963,military,1996,2
+449,"Ansari, Anousheh",female,U.S.,Other (space tourist),1966,civilian,2006,1
+450,"Oefelein, William A.",male,U.S.,pilot,1965,military,1998,1
+451,"Patrick, Nicholas J. M.",male,U.K./U.S.,MSP,1964,civilian,1998,2
+452,Christer Fuglesang,male,Sweden,MSP,1957,civilian,1992,2
+453,"Higginbotham, Joan E.",female,U.S.,MSP,1964,civilian,1996,1
+454,"Williams, Sunita L.",female,U.S.,MSP,1965,military,1998,1
+455,"Kotov, Oleg",male,U.S.S.R/Russia,commander,1965,military,1996,3
+456,"Simonyi, Charles (Karoly)",male,U.S.,Other (space tourist),1948,civilian,2006,2
+457,"Archambault, Lee J.",male,U.S.,pilot,1960,military,1998,2
+458,"Swanson, Steven R.",male,U.S.,MSP,1960,civilian,1998,3
+459,"Olivas, John D.",male,U.S.,MSP,1965,civilian,1998,2
+460,"Anderson, Clayton C.",male,U.S.,flight engineer,1959,civilian,1998,2
+461,"Caldwell, Tracy E.",female,U.S.,MSP,1969,civilian,1998,2
+462,"Drew, Alvin Benjamin",male,U.S.,MSP,1962,military,2000,2
+463,"Morgan, Barbara R.",female,U.S.,MSP,1951,civilian,1998,1
+464,"Shukor, Sheikh Muszaphar",male,Malysia,Other (space tourist),1972,civilian,2006,1
+465,"Zamka, George D.",male,U.S.,pilot,1962,military,1998,2
+466,"Wheelock, Douglas H.",male,U.S.,MSP,1960,military,1998,2
+467,"Nespoli, Paolo A.",male,Italy,MSP,1957,military,1998,3
+468,"Poindexter, Alan G.",male,U.S.,pilot,1961,military,1998,2
+469,"Melvin, Leland D.",male,U.S.,MSP,1964,civilian,1998,2
+470,"Love, Stanley G.",male,U.S.,MSP,1965,civilian,1998,1
+471,"Johnson, Gregory H.",male,U.S.,pilot,1962,military,1998,2
+472,"Behnken, Robert L.",male,U.S.,MSP,1970,military,2000,2
+473,"Foreman, Michael J.",male,U.S.,MSP,1957,military,1998,2
+474,"Reisman, Garrett E.",male,U.S.,flight engineer,1968,civilian,1998,2
+475,"Volkov, Sergei",male,U.S.S.R/Russia,commander,1973,military,1997,3
+476,"Kononenko, Oleg D.",male,U.S.S.R/Russia,flight engineer,1964,military,1996,4
+477,"Yi, Soyeon (Lee So-hyun)",female,Korea,Other (Space tourist),1978,civilian,2006,1
+478,"Ham, Kenneth T.",male,U.S.,pilot,1964,military,1998,2
+479,"Nyberg, Karen L.",female,U.S.,MSP,1969,civilian,2000,2
+480,"Garan, Ronald J., Jr.",male,U.S.,MSP,1961,military,2000,2
+481,"Hoshide, Akihiko",male,Japan,MSP,1968,civilian,1999,2
+482,"Chamitoff, Gregory",male,U.S.,flight engineer,1962,civilian,1998,2
+483,"Zhai, Zhigang",male,China,commander,1966,military,2008,1
+484,"Liu, Boming",male,China,flight engineer,1966,military,2008,1
+485,"Jing, Haipeng",male,China,flight engineer,1966,military,2008,3
+486,"Garriott, Richard Allen",male,U.K./U.S.,Space tourist,1961,civilian,2007,1
+487,"Boe, Eric A.",male,U.S.,pilot,1964,military,2000,2
+488,"Bowen, Stephen G.",male,U.S.,MSP,1964,military,2000,3
+489,"Kimbrough, Robert S.",male,U.S.,MSP,1967,military,2004,2
+490,"Antonelli, Dominic A.",male,U.S.,pilot,1967,military,2000,2
+491,"Acaba, Joseph M.",male,U.S.,MSP,1967,civilian,2004,3
+492,"Arnold, Richard R., II",male,U.S.,MSP,1963,civilian,2004,2
+493,"Barratt, Michael R.",male,U.S.,flight engineer,1959,civilian,2000,2
+494,"Johnson, Gregory C.",male,U.S.,pilot,1954,civilian,1998,1
+495,"Good, Michael T.",male,U.S.,MSP,1962,military,2000,2
+496,"McArthur, K. Megan",female,U.S.,MSP,1971,civilian,2000,1
+497,"Feustel, Andrew J.",male,U.S.,MSP,1965,civilian,2000,3
+498,"Romanenko, Roman",male,U.S.S.R/Russia,flight engineer,1971,military,1997,2
+499,"Hurley, Douglas G.",male,U.S.,pilot,1966,military,2000,2
+500,"Cassidy, Christopher J.",male,U.S.,MSP,1970,military,2004,2
+501,"Marshburn, Thomas H.",male,U.S.,MSP,1960,military,2004,2
+502,"Kopra, Timothy L.",male,U.S.,MSP,1963,military,2000,2
+503,"Ford, Kevin A.",male,U.S.,pilot,1960,military,2000,2
+504,"Hernandez, Jose M.",male,U.S.,MSP,1962,civilian,2004,1
+505,"Stott, Nicole P.",female,U.S.,flight engineer,1962,civilian,2000,2
+506,"Surayev, Maksim",male,U.S.S.R/Russia,commander,1972,military,1997,2
+507,Guy Laliberte,male,Canada,Other (Space tourist),1959,civilian,2009,1
+508,"Wilmore, Barry E.",male,U.S.,pilot,1962,military,2000,2
+509,"Bresnik, Randolph J.",male,U.S.,MSP,1967,military,2004,2
+510,"Satcher, Robert L.",male,U.S.,MSP,1965,civilian,2004,1
+511,"Creamer, Timothy J.",male,U.S.,flight engineer,1959,military,1998,1
+512,"Virts, Terry W., Jr.",male,U.S.,pilot,1967,military,2000,2
+513,"Skvortsov, Aleksandr Jr.",male,U.S.S.R/Russia,commander,1966,military,1997,3
+514,"Korniyenko, Mikhail",male,U.S.S.R/Russia,flight engineer,1960,civilian,1998,2
+515,"Dutton, James P.",male,U.S.,pilot,1968,military,2004,1
+516,"Metcalf-Lindenburger, Dorothy M.",female,U.S.,MSP,1975,civilian,2004,1
+517,"Yamazaki, Naoko",female,Japan,MSP,1970,civilian,1999,1
+518,"Walker, Shannon",female,U.S.,flight engineer,1965,civilian,2004,1
+519,"Skripochka, Oleg",male,U.S.S.R/Russia,flight engineer,1969,civilian,1997,3
+520,"Kondratyev, Dmitri",male,U.S.S.R/Russia,commander,1969,military,1997,1
+521,"Samokutyayev, Aleksandr",male,U.S.S.R/Russia,commander,1970,military,2003,2
+522,"Borisenko, Andrei",male,U.S.S.R/Russia,flight engineer,1964,military,2003,2
+523,"Furukawa, Satoshi",male,Japan,flight engineer,1964,civilian,1999,1
+524,"Shkaplerov, Anton",male,U.S.S.R/Russia,commander,1972,military,2003,3
+525,"Ivanishin, Anatoli",male,U.S.S.R/Russia,commander,1969,military,2003,2
+526,"Revin, Sergei",male,U.S.S.R/Russia,flight engineer,1966,civilian,1996,1
+527,"Liu, Wang",male,China,flight engineer,1969,military,2012,1
+528,"Liu, Yang",female,China,flight engineer,1978,military,2012,1
+529,"Novitski, Oleg",male,U.S.S.R/Russia,commander,1971,military,2006,2
+530,"Tarelkin, Yevgeni",male,U.S.S.R/Russia,flight engineer,1974,military,2003,1
+531,"Misurkin, Aleksandr",male,U.S.S.R/Russia,flight engineer,1977,military,2006,2
+532,"Parmitano, Luca",male,Italy,flight engineer,1976,military,2009,2
+533,"Zhang, Xiaoguang",male,China,flight engineer,1968,military,2013,1
+534,"Wang, Yapi",male,China,flight engineer,1980,military,2013,1
+535,"Ryazanski, Sergei",male,U.S.S.R/Russia,flight engineer,1974,civilian,2003,2
+536,"Hopkins, Michael Scott",male,U.S.,flight engineer,1968,military,2009,1
+537,"Artemyev, Oleg",male,U.S.S.R/Russia,flight engineer,1970,military,2003,2
+538,"Wiseman, Gregory Reid",male,U.S.,MSP,1975,military,2009,1
+539,"Gerst, Alexander",male,Germany,flight engineer,1976,civilian,2009,2
+540,"Serova, Yelena",female,U.S.S.R/Russia,flight engineer,1976,civilian,2006,1
+541,"Cristofretti, Samantha",female,Italy,flight engineer,1977,military,2009,1
+542,"Yui, Kimiya",male,Japan,flight engineer,1970,military,2009,1
+543,"Lindgren, Kjell Norwood",male,U.S.,flight engineer,1973,military,2009,1
+544,"Mogensen, Andreas",male,Denmark,flight engineer,1976,civilian,2009,1
+545,Aidyn (Aydyn) Akanovich Aimbetov,male,Kazakhstan,flight engineer,1972,military,2012,1
+546,"Peake, Timothy Nigel",male,U.K.,pilot,1972,military,2009,1
+547,"Ovchinin, Aleksey",male,U.S.S.R/Russia,commander,1971,military,2006,3
+548,"Onishi, Takuya",male,Japan,flight engineer,1975,civilian,2009,1
+549,"Rubins, Kathleen",female,U.S.,flight engineer,1978,civilian,2009,1
+550,"Chen, Dong",male,China,flight engineer,1978,military,2010,1
+551,"Ryzhikov, Sergey",male,U.S.S.R/Russia,commander,1974,military,2006,1
+552,"Pesquet, Thomas",male,France,flight engineer,1978,civilian,2009,1
+553,"Fischer, Jack",male,U.S.,flight engineer,1974,military,2009,1
+554,"Vande Hei, Mark",male,U.S.,flight engineer,1966,military,2009,1
+555,"Tingle, Scott",male,U.S.,flight engineer,1965,military,2009,1
+556,"Kanai, Norishige",male,Japan,flight engineer,1976,civilian,2009,1
+557,"Prokopyev, Sergei",male,U.S.S.R/Russia,commander,1975,military,2010,1
+558,"Auï¿½ï¿½ï¿½ï¿½n-Chancellor",female,U.S.,flight engineer,1976,civilian,2009,1
+559,"Hague, Tyler",male,U.S.,flight engineer,1975,military,2013,2
+560,"Saint-Jaques, David",male,Canada,flight engineer,1970,civilian,2009,1
+561,"McClain, Anne Charlotte",female,U.S.,flight engineer,1979,military,2013,1
+562,"Koch, Christina",female,U.S.,flight engineer,1979,civilian,2013,1
+563,"Morgan, Andrew",male,U.S.,flight engineer,1976,military,2013,1
+564,"Meir, Jessica",female,U.S.,flight engineer,1977,civilian,2013,1
+565,"Al Mansoori, Hazzaa",male,UAE,spaceflight participant,1983,military,2018,1
